@@ -45,9 +45,9 @@ Editor** using PMOS and NMOS transistors.
     **VDD2**.
 -   Added **VSS** as the ground reference.
 
-### Schematic Screenshot
+### Schematic 
 
-![CMOS Level Shifter Schematic](images/level-shifter-schematic.jpeg)
+![CMOS Level Shifter Schematic](Levelshifter_schematic.jpeg)
 
 ## 2. Layout Design
 
@@ -66,9 +66,9 @@ Editor**.
 -   Completed the layout with the required input, output and supply
     connections.
 
-### Layout Screenshot
+### Layout 
 
-![CMOS Level Shifter Layout](images/level-shifter-layout.jpeg)
+![CMOS Level Shifter Layout](Levelshifter_layout.jpeg)
 
 ## 3. Physical Verification
 
@@ -89,10 +89,10 @@ requirements.
 successfully. The PVS results screenshot shows a clean DRC result and an
 LVS comparison match.
 
-### Verification Screenshot
+### Verification
 
 ![CMOS Level Shifter Physical Verification
-Results](images/level-shifter-verification.jpeg)
+Results](Levelshifter_verification.jpeg)
 
 ## Tools and Technologies
 
