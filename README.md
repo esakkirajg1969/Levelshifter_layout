@@ -112,7 +112,7 @@ clean DRC run and a matching layout-versus-schematic comparison.
  ## Author
 
 **Esakkiraj G**
-B.E. Electronics and Communication Engineering
-Custom & Analog Layout Engineer
+ | B.E. Electronics and Communication Engineering
+ | Custom & Analog Layout Engineer
 
 **Domain:** VLSI | Custom Layout | Analog Layout | CMOS Design
